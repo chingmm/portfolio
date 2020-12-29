@@ -21,10 +21,12 @@ const Contact = () => {
               target="_blank"
               rel="noopener noreferrer"
               className="cta-btn cta-btn--resume"
-              href={email ? `mailto:${email}` : 'https://github.com/cobidev/react-simplefolio'}
+              href={email ? `mailto:${email}` : 'https://www.linkedin.com/in/michellemuiching/'}
             >
               {btn || "Let's Talk"}
             </a>
+            <p>chimgmm@gmail.com</p>
+            <a href="https://www.linkedin.com/in/michellemuiching/"><p>https://www.linkedin.com/in/michellemuiching/</p></a>
           </div>
         </Fade>
       </Container>
