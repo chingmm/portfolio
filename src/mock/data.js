@@ -11,14 +11,14 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Michelle Ching',
-  subtitle: 'Full Stack Developer',
+  subtitle: "I'm a Full Stack Developer",
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile1.jpg',
-  paragraphOne: 'I am a software engineer with a background in Data Analytics.',
+  paragraphOne: 'I am a software engineer with a background in Analytics/Business Intelligence.',
   paragraphTwo: 'My experience in gathering business requirements in order to provide meaningful outputs for teams has made me proficient in organized and structured thought, working with large quantities of data in a cohesive manner, and translating non-technical requests into tangible and measurable tasks.',
   paragraphThree: 'My goal is to use my existing skills and combine them with my technical abilities in order to create and implement polished solutions from the front end to the back end.',
   resume: 'https://docs.google.com/document/d/1C-CAS_F-oSCBE06lsIPPbQkM5jmxnaOfb43JAzQACeE/edit?usp=sharing', // if no resume, the button will not show up
@@ -68,7 +68,7 @@ export const projectsData = [
     title: 'Chatter',
     info: 'A chat application utilizing websockets via GraphQL',
     info2: '',
-    url: 'https://inspiring-knuth-f2bd42.netlify.app/',
+    url: 'http://18.221.175.238/',
     repo: 'https://github.com/chingmm/chat_app.git', // if no repo, the button will not show up
   },
 ];
